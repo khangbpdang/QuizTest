@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QuizTest</string>
+    <string name="question_text">Constantinople is the largest city in Turkey.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="question1">Human hair contains traces of gold.</string>
+    <string name="question2">Chinese checkers was invented in China</string>
+    <string name="question3">Vietnam is the second biggest exporter of smartphones.</string>
+    <string name="question4">Tomato is considered a vegetable.</string>
+    <string name="question5">August was named after the roman emperor Augustus.</string>
+
+</resources>
